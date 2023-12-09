@@ -6,8 +6,17 @@ Experienced Deep Learning and AI enthusiast with a comprehensive understanding o
 
 Skills: Python  / JS / HTML / CSS/ Deep learning/ Machine Learning/ Neureal Networks
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on AI Projects 
+- 🌱 I’m currently learning Transformers Ai 
+- 👯 I’m looking to collaborate on anyone 
+- 🤔 I’m looking for help with Transformers Ai 
+- 💬 Ask me about Deep learning 
+- 📫 How to reach me: Connect with me on LinkedIn 
+- 😄 Pronouns: He/ Him 
+- ⚡ Fun fact: AGI Has Been Reached 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Moeen082)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/moeen-ahmed-siddique-91824327b//)  
 
 
 
