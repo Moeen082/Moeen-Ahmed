@@ -16,7 +16,7 @@ Skills: Python  / JS / HTML / CSS/ Deep learning/ Machine Learning/ Neureal Netw
 - ⚡ Fun fact: AGI Has Been Reached 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Moeen082)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/moeen-ahmed-siddique-91824327b//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Moeen082)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/moeen-ahmed-siddique-91824327b/])  
 
 
 
